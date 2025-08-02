@@ -1,6 +1,11 @@
 <div align="center">
   <h1 style="color: #00ffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; transition: all 0.8s ease-in-out;">
     Hi 👋, I'm <span style="background: linear-gradient(to right, #00ffff, #00aaff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700; text-shadow: 0 0 10px #00aaff;">Ashwani Kumar Singh</span>
+    ---
+    <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=2005ashwani&label=Profile%20views&color=blue&style=flat" alt="2005ashwani" />
+</div>
+    ---
   </h1>
   <h3 style="color: #c0c0c0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">A passionate Web Developer & CSE B.Tech 4th Year Student</h3>
 </div>
@@ -26,6 +31,9 @@
   <a href="https://github.com/2005Ashwani" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" height="40" width="40"/>
   </a>
+    <a href="https://www.linkedin.com/in/2005ashwani/" target="_blank">
+<img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="40" width="40"/>
+  </a>
 </p>
 
 ---
@@ -43,9 +51,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=2005ashwani&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=2005ashwani&theme=dark" alt="GitHub Streak" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=2005ashwani&label=Profile%20views&color=blue&style=flat" alt="2005ashwani" />
-</div>
