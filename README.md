@@ -5,7 +5,7 @@
     <div align="center">
   <img src="https://komarev.com/ghpvc/?username=2005ashwani&label=Profile%20views&color=blue&style=flat" alt="2005ashwani" />
 </div>
-    ---
+    
   </h1>
   <h3 style="color: #c0c0c0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">A passionate Web Developer & CSE B.Tech 4th Year Student</h3>
 </div>
