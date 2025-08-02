@@ -3,7 +3,12 @@
 </h1>
 <h3 align="center">A passionate Web Developer & CSE B.Tech 4th Year Student</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" />
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=2005ashwani&label=Profile%20views&color=blue&style=flat" alt="2005ashwani" />
+</p>
 
 ---
 
@@ -58,8 +63,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=2005ashwani&theme=radical" alt="GitHub Streak" />
 </p>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=2005ashwani&label=Profile%20views&color=blue&style=flat" alt="2005ashwani" />
-</p>
