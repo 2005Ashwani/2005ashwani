@@ -2,7 +2,7 @@
   <h1 style="color: #00ffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; transition: all 0.8s ease-in-out;">
     Hi 👋, I'm <span style="background: linear-gradient(to right, #00ffff, #00aaff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700; text-shadow: 0 0 10px #00aaff;">Ashwani Kumar Singh</span>
     
-    
+    ---
   <img src="https://komarev.com/ghpvc/?username=2005ashwani&label=Profile%20views&color=blue&style=flat" alt="2005ashwani" />
 </div>
     
