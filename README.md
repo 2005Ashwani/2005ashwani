@@ -1,6 +1,4 @@
-Here is the code with an anchor tag around your GitHub profile link, making it more dynamic and clickable.
 
-```markdown
 <div align="center">
   <h1 style="color: #00ffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; transition: all 0.8s ease-in-out;">
     Hi 👋, I'm <span style="background: linear-gradient(to right, #00ffff, #00aaff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700; text-shadow: 0 0 10px #00aaff;">Ashwani Kumar Singh</span>
@@ -52,4 +50,3 @@ Here is the code with an anchor tag around your GitHub profile link, making it m
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=2005ashwani&theme=dark" alt="GitHub Streak" />
 </p>
 
-```
