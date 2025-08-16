@@ -9,32 +9,49 @@
 
 </div>
 
-<div align="center">
-
-  <a href="https://github.com/2005Ashwani">
-
-    <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" alt="Coding" width="400" />
-
-  </a>
-
+<div align="center" style="margin: 30px 0;">
+  <a href="https://github.com/2005Ashwani" target="_blank" rel="noopener noreferrer" style="display: inline-block; text-decoration: none;">
+    <img 
+      src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" 
+      alt="Coding" 
+      width="400" 
+      style="border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 12px 25px rgba(0,0,0,0.4)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.3)';"
+    />
+  </a>
 </div>
-
 
 
 <br/>
 
-<div align="center">
-
-  <a href="https://ashwanitech.netlify.app/" target="_blank">CONNECT ME</a>
-
+<div align="center" style="margin: 30px 0;">
+  <a href="https://ashwanitech.netlify.app/" 
+     target="_blank" 
+     rel="noopener noreferrer"
+     style="
+       display: inline-block;
+       padding: 12px 28px;
+       background: linear-gradient(135deg, #6a11cb, #2575fc);
+       color: white;
+       font-size: 18px;
+       font-weight: bold;
+       text-decoration: none;
+       border-radius: 30px;
+       box-shadow: 0 6px 15px rgba(0,0,0,0.3);
+       transition: all 0.3s ease;
+     "
+     onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.4)';"
+     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.3)';"
+  >
+    🚀 CONNECT ME
+  </a>
 </div>
 
-<br/>
 
+<br/>
 
 ---
-
-
 
 ### 🔗 Connect with me
 
