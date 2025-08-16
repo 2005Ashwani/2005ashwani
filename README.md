@@ -3,20 +3,11 @@
   <h1 style="color: #00ffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; transition: all 0.8s ease-in-out;">
 
     Hi 👋, I'm <span style="background: linear-gradient(to right, #00ffff, #00aaff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700; text-shadow: 0 0 10px #00aaff;">Ashwani Kumar Singh</span>
-
-    
-
- 
-
-    
-
   </h1>
 
   <h3 style="color: #c0c0c0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">A passionate Web Developer & CSE B.Tech 4th Year Student</h3>
 
 </div>
-
-
 
 <div align="center">
 
@@ -88,12 +79,13 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2005ashwani&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2005ashwani&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Langs" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=2005ashwani&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2005ashwani&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2005ashwani&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2005ashwani&theme=dark" alt="GitHub Streak" />
 
-</p>
+</div>
+
