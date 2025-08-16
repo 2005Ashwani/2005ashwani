@@ -5,43 +5,11 @@
   </h1>
   <h3 style="color: #c0c0c0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">A passionate Web Developer & CSE B.Tech 4th Year Student</h3>
 </div>
-
-<div align="center" style="background-color: #f0f8ff; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <a href="https://ashwanitech.netlify.app/" style="text-decoration: none; display: inline-block; border: 3px solid #00aaff; border-radius: 10px; overflow: hidden; transition: transform 0.3s ease-in-out;">
-    <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" alt="Coding" width="400" style="display: block;" />
+<div align="center">
+  <a href="https://ashwanitech.netlify.app/" target="_blank" rel="noopener noreferrer">
+    CONNECT ME
   </a>
 </div>
-
-<br/>
-
-<div align="center">
-  <style>
-    .connect-button {
-      display: inline-block;
-      padding: 12px 24px;
-      font-size: 18px;
-      font-weight: bold;
-      color: #ffffff;
-      background: linear-gradient(45deg, #007bff, #00c6ff);
-      border: none;
-      border-radius: 50px;
-      text-decoration: none;
-      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-      transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      text-transform: uppercase;
-      letter-spacing: 1px;
-    }
-    
-    .connect-button:hover {
-      transform: translateY(-3px);
-      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
-    }
-  </style>
-
-  <a href="https://ashwanitech.netlify.app/" class="connect-button">CONNECT ME</a>
-</div>
-
 <br/>
 
 ---
