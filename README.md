@@ -47,34 +47,25 @@
 
 ### 🔗 Connect with me
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 20px;">
 
-  <a href="https://twitter.com/ashwanikumars05" target="_blank">
+  <a href="https://twitter.com/ashwanikumars05" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="40" width="40"/>
+  </a>
 
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="40" width="40"/>
+  <a href="https://instagram.com/ashwani_kumar_singh_03" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="40" width="40"/>
+  </a>
 
-  </a>
+  <a href="https://github.com/2005Ashwani" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" height="40" width="40"/>
+  </a>
 
-  <a href="https://instagram.com/ashwani_kumar_singh_03" target="_blank">
+  <a href="https://www.linkedin.com/in/2005ashwani/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="40" width="40"/>
+  </a>
 
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="40" width="40"/>
-
-  </a>
-
-  <a href="https://github.com/2005Ashwani" target="_blank">
-
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" height="40" width="40"/>
-
-  </a>
-
-    <a href="https://www.linkedin.com/in/2005ashwani/" target="_blank">
-
-<img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="40" width="40"/>
-
-  </a>
-
-</p>
-
+</div>
 
 
 ---
