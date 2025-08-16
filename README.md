@@ -6,9 +6,9 @@
   <h3 style="color: #c0c0c0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">A passionate Web Developer & CSE B.Tech 4th Year Student</h3>
 </div>
 
-<div align="center">
-  <a href="https://ashwanitech.netlify.app/">
-    <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" alt="Coding" width="400" />
+<div align="center" style="background-color: #f0f8ff; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <a href="https://ashwanitech.netlify.app/" style="text-decoration: none; display: inline-block; border: 3px solid #00aaff; border-radius: 10px; overflow: hidden; transition: transform 0.3s ease-in-out;">
+    <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" alt="Coding" width="400" style="display: block;" />
   </a>
 </div>
 
