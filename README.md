@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/2005Ashwani">
+  <a href="https://ashwanitech.netlify.app/">
     <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" alt="Coding" width="400" />
   </a>
 </div>
